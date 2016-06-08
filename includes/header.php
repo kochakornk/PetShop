@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Admin: Hitachi Power Tools (Thailand) </title>
+		<title>PetShop </title>
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="css/sweet-alert.css">
 		<link rel="stylesheet" type="text/css" href="css/sticky-footer-navbar.css">
@@ -22,7 +22,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/company-web/">COMPANY</a>
+      <a class="navbar-brand" href="/company-web/">PETSHOP</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
